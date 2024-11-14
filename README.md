@@ -59,7 +59,7 @@ OPENAI_API_KEY=your_openai_api_key
 
 1. Start the application:
 ```bash
-python main.py
+python run.py
 ```
 
 2. The GUI will display:
